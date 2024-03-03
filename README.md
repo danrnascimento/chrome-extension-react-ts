@@ -9,8 +9,8 @@ Bem-vindo ao projeto de boilerplate de extensão para Google Chrome, desenvolvid
 1. Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/seu-usuario/boilerplate-extensao-chrome-react-ts.git
-   cd boilerplate-chrome-extension-react-ts
+   git clone [https://github.com/seu-usuario/boilerplate-extensao-chrome-react-ts.git](https://github.com/danrnascimento/chrome-extension-react-ts.git)
+   cd chrome-extension-react-ts
    ```
 
 2. Instale as dependências do projeto:
